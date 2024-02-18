@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.goof]
+@="GoofFileType"
+
+[HKEY_CLASSES_ROOT\GoofFileType]
+@="Goof File"
+
+[HKEY_CLASSES_ROOT\GoofFileType\DefaultIcon]
+@="C:\\Users\\fredd\\OneDrive\\Desktop\\Hackathon\\assets\\logo\\GoofyIcon.ico"
